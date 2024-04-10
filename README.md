@@ -11,7 +11,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 ## Integrantes
 
 * Douglas Barone dos Santos
-* Felipe
+* Felipe Alexandre da Silva
 * Gabriella Rayanne Diogo de Barros
 * Lucas Coelho da Silva
 
