@@ -58,6 +58,7 @@
 |RNF-01| Alterações feitas nos perfis serão encriptadas, feitas mediante usuário e senha.   | ALTA | 
 |RNF-02| Quantidade de caracteres limitado para o cadastro do psicólogo.   | MÉDIA | 
 |RNF-03| Desempenho, segurança e usabilidade.   | MÉDIA | 
+|RNF-03| A aplicação deve ter bom nível de contraste entre os elementos da tela.  | MÉDIA | 
 
 **Prioridade: Alta / Média / Baixa. 
 
