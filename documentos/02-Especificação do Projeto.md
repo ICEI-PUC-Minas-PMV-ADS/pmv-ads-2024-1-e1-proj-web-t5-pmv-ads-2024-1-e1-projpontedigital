@@ -46,10 +46,11 @@
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 | RF-01 | Campo para que os profissionais da psicologia realizem seus cadastros; | Alta | 
-|  RF-02 |  ...                    | ...   |
+| RF-02 |Campo onde especificamente pessoas físicas e jurídicas contratam serviços psicológicos;| Média |
+| RF-03 |Campo de busca que permita a filtrarem de especialidades;|  Alta |
+|  |  ...                    | ...   |
 |  ...  |  ...                    | ...   |
-|  ...  |  ...                    | ...   |
-|  ...  |  ...                    | ...   |
+
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
