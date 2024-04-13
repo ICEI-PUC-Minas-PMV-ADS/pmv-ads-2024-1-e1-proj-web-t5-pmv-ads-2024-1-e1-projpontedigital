@@ -1,6 +1,6 @@
 # PonteDigital
 
-`CURSO`
+Análise e Desenvolvimento de Sistemas - PUC Minas
 
 `DISCIPLINA`
 
