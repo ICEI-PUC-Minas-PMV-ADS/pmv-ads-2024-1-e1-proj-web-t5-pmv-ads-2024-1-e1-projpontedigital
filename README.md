@@ -6,7 +6,7 @@
 
 `1º semestre/2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O projeto propõe uma solução tecnológica para facilitar a conexão entre psicólogos e clientes através de uma plataforma web, visando superar a dificuldade dos psicólogos em atrair clientes. Isso envolve o desenvolvimento de sistemas de busca, agendamento de consultas e criação de perfis detalhados para os psicólogos, além de permitir que os clientes avaliem esses profissionais. O objetivo é preencher uma lacuna no mercado de serviços psicológicos, proporcionando uma experiência mais satisfatória para ambas as partes, com foco na segurança, desempenho e usabilidade da plataforma.
 
 ## Integrantes
 
