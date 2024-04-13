@@ -12,10 +12,15 @@ O problema central abordado neste projeto é a dificuldade enfrentada pelos psic
 ## Objetivos
 
 O objetivo geral é fornecer uma solução tecnológica que facilite a conexão entre psicólogos e clientes, promovendo uma experiência mais acessível, conveniente e eficaz para ambas as partes.
+
 Dentre os objetivos específicos podemos citar:
+
 ●	Desenvolver uma plataforma web intuitiva que permita aos psicólogos cadastrarem seus perfis e aos clientes procurarem por profissionais de acordo com suas necessidades e preferências.
+
 ●	Implementar um sistema de busca que permita aos clientes filtrarem os psicólogos por especialidade, localização, disponibilidade de horário, modalidade de atendimento (presencial ou online), entre outros critérios relevantes.
+
 ●	Criar perfis detalhados para os psicólogos, destacando suas qualificações, áreas de expertise e abordagens terapêuticas.
+
 ●	Estabelecer um sistema de agendamento de consultas que permita aos clientes marcarem sessões diretamente através da plataforma.
 
 ## Justificativa
