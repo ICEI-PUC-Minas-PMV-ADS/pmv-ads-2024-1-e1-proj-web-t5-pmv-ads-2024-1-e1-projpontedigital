@@ -45,7 +45,7 @@
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
+| RF-01 | Campo para que os profissionais da psicologia realizem seus cadastros; | Alta | 
 |  ...  |  ...                    | ...   |
 
 **Prioridade: Alta / Média / Baixa. 
