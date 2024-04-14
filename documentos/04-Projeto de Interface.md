@@ -60,7 +60,7 @@ A tela de cadastro, o usuário seleciona se o cadastro será feito como paciente
 </figure>
 
 <figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/tela%20cadastro2.png"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/tela%20cadastro2.png"
    <figcaption>Figura 6 - Tela de preenchimento de dados. </figcaption>
   
 </figure>
