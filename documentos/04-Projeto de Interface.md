@@ -32,7 +32,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 A tela de home page apresenta banners sobre divulgação do projeto, cadastro e avaliações de pacientes.
 
 <figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/tela%20homepage.png"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/tela%20homepage.png"
    <figcaption>Figura 3 - Tela de Home Page. </figcaption>
   
 </figure>
