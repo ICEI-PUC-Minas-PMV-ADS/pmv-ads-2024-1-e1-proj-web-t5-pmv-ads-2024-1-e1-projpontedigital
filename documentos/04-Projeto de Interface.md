@@ -93,7 +93,7 @@ A tela de profissionais apresenta os psicólogos disponíveis e suas especialida
 A tela a seguir mostra detalhes apenas sobre o psicólogo selecionado.
 
 <figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/tela%20psicologoespecifico.png"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/tela%20psicologoespecifico.png"
    <figcaption>Figura 9 - Tela de divulgação dos profissionais. </figcaption>
   
 </figure>
