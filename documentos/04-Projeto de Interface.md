@@ -28,6 +28,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 </figure>
 
 
+
 ### Tela - Home Page
 
 A tela de home page apresenta banners sobre divulgação do projeto, cadastro e avaliações de pacientes.
@@ -37,6 +38,7 @@ A tela de home page apresenta banners sobre divulgação do projeto, cadastro e 
    <figcaption>Figura 3 - Tela de Home Page. </figcaption>
 
 </figure>
+
 
 
 ### Tela - Login
@@ -50,6 +52,7 @@ A tela de Login apresenta campos para a inserção do e-mail e da senha, e a fun
 </figure>
 
 
+
 ### Tela - Cadastro
 
 A tela de cadastro, o usuário seleciona se o cadastro será feito como paciente ou psicólogo, e então, preenche os dados de acordo com o solicitado.
@@ -59,9 +62,10 @@ A tela de cadastro, o usuário seleciona se o cadastro será feito como paciente
    <figcaption>Figura 5 - Tela seleção de usuário. </figcaption>
 
 </figure>
+
 <figure>
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/tela%20cadastro2.png"
-   <figcaption>Figura 5 - Tela de preenchimento de dados. </figcaption>
+   <figcaption>Figura 6 - Tela de preenchimento de dados. </figcaption>
 
 </figure>
 
@@ -72,9 +76,10 @@ A tela de perfil de usuário permite ao usuário editar suas informações pesso
 
 <figure>
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/tela%20perfilusuario.png"
-   <figcaption>Figura 5 - Tela de perfil de usuário. </figcaption>
+   <figcaption>Figura 7 - Tela de perfil de usuário. </figcaption>
 
 </figure>
+
 
 
 ### Tela - Profissionais
@@ -83,9 +88,10 @@ A tela de profissionais apresenta os psicólogos disponíveis e suas especialida
 
 <figure>
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/tela%20mostraprofissionais.png"
-   <figcaption>Figura 4 - Tela de divulgação dos profissionais. </figcaption>
+   <figcaption>Figura 8 - Tela de divulgação dos profissionais. </figcaption>
 
 </figure>
+
 
 
 ### Tela - Psicólogo Selecionado
@@ -94,9 +100,10 @@ A tela a seguir mostra detalhes apenas sobre o psicólogo selecionado.
 
 <figure>
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/tela%20psicologoespecifico.png"
-   <figcaption>Figura 5 - Tela de divulgação dos profissionais. </figcaption>
+   <figcaption>Figura 9 - Tela de divulgação dos profissionais. </figcaption>
 
 </figure>
+
 
 
 ### Tela - Agendamento
@@ -105,7 +112,7 @@ A tela de agendamento mostra as opções a serem selecionadas pelo usuário, par
 
 <figure>
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/tela%20agendamento.png"
-   <figcaption>Figura 5 - Tela de agendamento de consultas. </figcaption>
+   <figcaption>Figura 10 - Tela de agendamento de consultas. </figcaption>
 
 </figure>
 
