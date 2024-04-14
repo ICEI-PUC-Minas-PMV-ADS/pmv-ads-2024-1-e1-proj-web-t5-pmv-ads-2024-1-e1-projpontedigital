@@ -7,11 +7,12 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Perfil 1: Psicólogo </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px"> Psicólogo especialista, seja em diferentes abordagens teóricas ou modalidades específicas previstas no CFP.
+</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
