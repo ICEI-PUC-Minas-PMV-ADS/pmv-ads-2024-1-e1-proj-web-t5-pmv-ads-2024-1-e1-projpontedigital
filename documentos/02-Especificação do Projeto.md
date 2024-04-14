@@ -63,10 +63,11 @@ Encontrar profissionais qualificados para atender demandas específicas.
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 |RF-01| Campo para que os profissionais da psicologia realizem seus cadastros.   | ALTA | 
-|RF-02| Campo onde especificamente pessoas físicas e jurídicas contratam serviços psicológicos.   | MÉDIA |
-|RF-03| Campo de busca que permita a filtrarem de especialidades.   | ALTA |
-|RF-04| Estabelecer um sistema de agendamento de consultas que permita aos clientes marcarem sessões e reuniões.   | ALTA |
-|RF-05| Campo onde os clientes possam avaliar os profissionais da psicologia.   | BAIXA |
+|RF-02| Campo para que os clientes realizem seus cadastros.   | ALTA |
+|RF-03| Campo onde especificamente pessoas físicas e jurídicas contratam serviços psicológicos.   | MÉDIA |
+|RF-04| Campo de busca que permita a filtrarem de especialidades.   | ALTA |
+|RF-05| Estabelecer um sistema de agendamento de consultas que permita aos clientes marcarem sessões e reuniões.   | ALTA |
+|RF-06| Campo onde os clientes possam avaliar os profissionais da psicologia.   | BAIXA |
 
 **Prioridade: Alta / Média / Baixa. 
 
