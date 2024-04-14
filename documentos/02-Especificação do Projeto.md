@@ -77,7 +77,7 @@ Encontrar profissionais qualificados para atender demandas específicas.
 |ID      | Descrição               | Prioridade |
 |--------|-------------------------|----|
 |RNF-01| Alterações feitas nos perfis serão encriptadas, feitas mediante usuário e senha.   | ALTA | 
-|RNF-02| Quantidade de caracteres limitado para o cadastro do psicólogo.   | MÉDIA | 
+|RNF-02| Quantidade de caracteres limitado para o cadastro do psicólogo e cliente.   | MÉDIA | 
 |RNF-03| Desempenho, segurança e usabilidade.   | MÉDIA | 
 
 **Prioridade: Alta / Média / Baixa. 
