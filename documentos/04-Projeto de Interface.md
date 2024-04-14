@@ -104,7 +104,7 @@ A tela a seguir mostra detalhes apenas sobre o psicólogo selecionado.
 A tela de agendamento mostra as opções a serem selecionadas pelo usuário, para que possa efetivar o agendamento.
 
 <figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/tela%20agendamento.png"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/tela%20agendamento.png"
    <figcaption>Figura 10 - Tela de agendamento de consultas. </figcaption>
   
 </figure>
