@@ -16,7 +16,9 @@
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>
+  Alcançar uma ampla variedade de públicos, desde crianças, adolescentes, adultos até idosos, que necessitam de atendimento psicológico, assim como organizações que buscam serviços oferecidos por psicólogos.
+</td>
 </tr>
 </tbody>
 </table>
