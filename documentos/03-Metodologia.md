@@ -24,6 +24,8 @@ O quadro kanban do grupo no GitHub está disponível no link https://github.com/
 <figure>
   <img src="https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1056/views/1" 
 
+</figure> 
+
     
 ### Etiquetas
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
