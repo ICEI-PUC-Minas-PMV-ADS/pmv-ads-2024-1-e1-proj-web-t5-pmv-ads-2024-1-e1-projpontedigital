@@ -82,7 +82,7 @@ Encontrar profissionais qualificados para atender demandas específicas.
 |--------|-------------------------|----|
 |RNF-01| Os cadastros e alterações feitas nos perfis serão encriptadas, feitas mediante usuário e senha.   | ALTA | 
 |RNF-02| Quantidade de caracteres limitado para o cadastro do psicólogo e paciente.   | MÉDIA | 
-|RNF-03| O site deve funcionar 24 por dia, 7 dias por semana.   | MÉDIA | 
+|RNF-03| O site deve funcionar 24 por dia, 7 dias por semana.   | ALTA | 
 |RNF-04| A aplicação deverá ser responsiva permitindo a visualização em diversos dispositivos de forma adequada.   | ALTA | 
 
 **Prioridade: Alta / Média / Baixa. 
