@@ -49,7 +49,7 @@ Encontrar profissionais qualificados para atender demandas específicas.
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
 | Psicólogo | Encontrar pacientes que nessecitem de avaliações psicólogicas no contexto de cirurgias eletivas. | Auxiliar na liberação do paciente para a cirurgia |
-| Paciente | Buscar um proficinal especialista em TE.A | Devido ao agravamento das crises de seu filho com autismo. |
+| Paciente | Buscar um profissinal especialista em Transtorno do Espectro Autista - TEA. | Devido ao agravamento das crises de seu filho com autismo. |
 | Psicólogo | Alcançar clientes com problemas de aprendizagem. | Auxiliar na inclusão escolar e na dificuldade de aprendizagem. |
 | Paciente | Encontrar um profissional especialista em avaliação psicológica em processos seletivos. | A empresa enfrenta problemas de comportamento de muitos funcionários após a efetivação do contrato. |
 | Psicólogo | Obter clientes potenciais para avaliação e reabilitação neurológica. | Para auxiliar no processo de reabilitação cognitiva do paciente. |
