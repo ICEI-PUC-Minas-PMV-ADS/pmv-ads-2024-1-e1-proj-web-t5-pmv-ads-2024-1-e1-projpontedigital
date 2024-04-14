@@ -82,7 +82,7 @@ A tela de perfil de usuário permite ao usuário editar suas informações pesso
 A tela de profissionais apresenta os psicólogos disponíveis e suas especialidades.
 
 <figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/tela%20mostraprofissionais.png"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/tela%20mostraprofissionais.png"
    <figcaption>Figura 8 - Tela de divulgação dos profissionais. </figcaption>
   
 </figure>
