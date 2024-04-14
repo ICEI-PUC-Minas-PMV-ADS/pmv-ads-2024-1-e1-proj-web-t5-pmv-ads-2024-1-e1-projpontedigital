@@ -1,8 +1,8 @@
 
 # Metodologia
 
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
 
+Optamos por adotar a metodologia ágil SCRUM para conduzir o desenvolvimento deste projeto. Segundo Carvalho e Mello (2012), essa abordagem oferece uma gama de vantagens, incluindo uma visão clara dos resultados esperados, disciplina e ritmo na execução das atividades, definição precisa de papéis e responsabilidades, capacitação dos membros da equipe para lidar com desafios, compartilhamento colaborativo de conhecimento e um ambiente propício para críticas construtivas de ideias, sem direcionamento pessoal.
 
 ## Gerenciamento de Projeto
 A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
