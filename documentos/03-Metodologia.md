@@ -47,6 +47,8 @@ O quadro kanban do grupo no GitHub está disponível no link https://github.com/
   
 ### Ferramentas
 As ferramentas empregadas no projeto são:
+- Ferramentas de comunicação
+- Ferramentas de desenho de tela (_Figma_)
 
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
