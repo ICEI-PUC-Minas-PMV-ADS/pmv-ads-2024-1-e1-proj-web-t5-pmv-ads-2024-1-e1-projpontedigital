@@ -43,7 +43,7 @@ A tela de home page apresenta banners sobre divulgação do projeto, cadastro e 
 A tela de Login apresenta campos para a inserção do e-mail e da senha, e a funcionalidade de manter-se logado.
 
 <figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/tela%20login.png"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/tela%20login.png"
    <figcaption>Figura 4 - Tela de acesso à conta do usuário. </figcaption>
   
 </figure>
