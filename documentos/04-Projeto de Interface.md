@@ -21,7 +21,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 - Rodapé - apresenta informações sobre os direitos autorais.
 
 <figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/prototipo.png"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/prototipo.png"
    <figcaption>Figura 2 - Estrutura padrão do site. </figcaption>
   
 </figure>
