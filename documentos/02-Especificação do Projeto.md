@@ -30,7 +30,7 @@
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px"> Clientes potenciais com diferentes demandas, sejam elas relacionadas a problemas emocionais, cognitivos, relacionamentos interpessoais ou em busca de desenvolvimento pessoal, bem como necessidades de intervenção em organizações ou instituições.
+<td width="600px"> Pacientes potenciais com diferentes demandas, sejam elas relacionadas a problemas emocionais, cognitivos, relacionamentos interpessoais ou em busca de desenvolvimento pessoal, bem como necessidades de intervenção em organizações ou instituições.
 </td>
 </tr>
 <tr>
@@ -48,15 +48,15 @@ Encontrar profissionais qualificados para atender demandas específicas.
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| Psicólogo | Encontrar clientes que nessecitem de avaliações psicólogicas no contexto de cirurgias eletivas. | Auxiliar na liberação do paciente para a cirurgia |
-| Cliente | Buscar um proficinal especialista em TE.A | Devido ao agravamento das crises de seu filho com autismo. |
+| Psicólogo | Encontrar pacientes que nessecitem de avaliações psicólogicas no contexto de cirurgias eletivas. | Auxiliar na liberação do paciente para a cirurgia |
+| Paciente | Buscar um proficinal especialista em TE.A | Devido ao agravamento das crises de seu filho com autismo. |
 | Psicólogo | Alcançar clientes com problemas de aprendizagem. | Auxiliar na inclusão escolar e na dificuldade de aprendizagem. |
-| Cliente | Encontrar um profissional especialista em avaliação psicológica em processos seletivos. | A empresa enfrenta problemas de comportamento de muitos funcionários após a efetivação do contrato. |
+| Paciente | Encontrar um profissional especialista em avaliação psicológica em processos seletivos. | A empresa enfrenta problemas de comportamento de muitos funcionários após a efetivação do contrato. |
 | Psicólogo | Obter clientes potenciais para avaliação e reabilitação neurológica. | Para auxiliar no processo de reabilitação cognitiva do paciente. |
 | Psicólogo | Encontrar empresas que necessitem de intervenção psicológica organizacional. | Para melhorar os indicadores de saúde mental na empresa. |
-| Cliente | Divulgar vagas para áreas especificas de psicologia. | Falta profissionais capacitados. |
+| Paciente | Divulgar vagas para áreas especificas de psicologia. | Falta profissionais capacitados. |
 | Psicólogo | Oferecer atendimento psicológico online. | Não tem escritório físico. |
-| Cliente | Encontrar atendimento psicológico na minha região. | Dificuldade de deslocamento. |
+| Paciente | Encontrar atendimento psicológico na minha região. | Dificuldade de deslocamento. |
 
 ## Requisitos 
 
@@ -66,12 +66,11 @@ Encontrar profissionais qualificados para atender demandas específicas.
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 |RF-01| Campo para que os profissionais da psicologia realizem seus cadastros.   | ALTA | 
-|RF-02| Campo para que os clientes realizem seus cadastros.   | ALTA |
+|RF-02| Campo para que os pacientes realizem seus cadastros.   | ALTA |
 |RF-03| Campo onde especificamente pessoas físicas e jurídicas contratam serviços psicológicos.   | MÉDIA |
 |RF-04| Criar campo de pesqueisa avançada, para filtragem de busca.   | ALTA |
-|RF-05| Estabelecer um sistema de agendamento de consultas que permita aos clientes marcar e cancelar sessões e reuniões.   | ALTA |
-|RF-06| Campo onde os clientes possam avaliar os profissionais da psicologia.   | BAIXA |
-|RF-07| Página onde as empresas possam divulgar vagas disponíveis para profissionais da psicologia.   | ALTA |
+|RF-05| Estabelecer um sistema de agendamento de consultas que permita aos pacientes marcar e cancelar sessões e reuniões.   | ALTA |
+|RF-06| Campo onde os pacientes possam avaliar os profissionais da psicologia.   | BAIXA |
 
 
 
@@ -83,7 +82,7 @@ Encontrar profissionais qualificados para atender demandas específicas.
 |ID      | Descrição               | Prioridade |
 |--------|-------------------------|----|
 |RNF-01| Alterações feitas nos perfis serão encriptadas, feitas mediante usuário e senha.   | ALTA | 
-|RNF-02| Quantidade de caracteres limitado para o cadastro do psicólogo e cliente.   | MÉDIA | 
+|RNF-02| Quantidade de caracteres limitado para o cadastro do psicólogo e paciente.   | MÉDIA | 
 |RNF-03| Desempenho, segurança e usabilidade.   | MÉDIA | 
 
 **Prioridade: Alta / Média / Baixa. 
