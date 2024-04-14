@@ -71,7 +71,7 @@ A tela de cadastro, o usuário seleciona se o cadastro será feito como paciente
 A tela de perfil de usuário permite ao usuário editar suas informações pessoais e verificar seus agendamentos e avaliações.
 
 <figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/tela%20perfilusuario.png"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/tela%20perfilusuario.png"
    <figcaption>Figura 7 - Tela de perfil de usuário. </figcaption>
   
 </figure>
