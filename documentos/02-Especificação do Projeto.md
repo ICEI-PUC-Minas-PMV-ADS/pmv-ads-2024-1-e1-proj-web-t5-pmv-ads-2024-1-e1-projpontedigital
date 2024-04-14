@@ -23,6 +23,25 @@
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Perfil 2: Cliente </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px"> Clientes potenciais com diferentes demandas, sejam elas relacionadas a problemas emocionais, cognitivos, relacionamentos interpessoais ou em busca de desenvolvimento pessoal, bem como necessidades de intervenção em organizações ou instituições.
+</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>
+Encontrar profissionais qualificados para atender demandas específicas.
+</td>
+</tr>
+</tbody>
+</table>
+
 
 ## Histórias de Usuários
 
@@ -35,8 +54,14 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
+| Psicólogo | Encontrar clientes que nessecitem de avaliações psicólogicas no contexto de cirurgias eletivas. | Auxiliar na liberação do paciente para a cirurgia |
+| Cliente | ...                       | ...                              |
+| Psicólogo | Alcançar clientes com problemas de aprendizagem | Auxiliar na inclusão escolar e na dificuldade de aprendizagem. |
+| Cliente | ...                       | ...                              |
+| Psicólogo | Obter clientes potenciais para avaliação e reabilitação neurológica. | Para auxiliar no processo de reabilitação cognitiva do paciente. |
+| Cliente | ...                       | ...                              |
+| Psicólogo | Encontrar empresas que necessitem de intervenção psicológica organizacional. | 
+Para melhorar os indicadores de saúde mental na empresa. |
 
 ## Requisitos 
 
