@@ -7,16 +7,10 @@ Optamos por adotar a metodologia ágil SCRUM para conduzir o desenvolvimento des
 
 ### Divisão de Papéis
 
-A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
 - Scrum Master: Douglas Barone dos Santos
 - Product Owner: Lucas Coelho da Silva
 - Equipe de Desenvolvimento: Douglas Barone dos Santos, Felipe Alexandre da Silva, Gabriella Rayanne Diogo de Barros, Lucas Coelho da Silva
 - Equipe de Design: Gabriella Rayanne Diogo de Barros
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
 
