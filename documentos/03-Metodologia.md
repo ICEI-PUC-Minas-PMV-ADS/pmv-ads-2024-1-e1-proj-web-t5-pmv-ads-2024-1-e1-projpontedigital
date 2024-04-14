@@ -22,7 +22,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - 
 O quadro kanban do grupo no GitHub está disponível no link https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1056 e é apresentado, no estado atual, na figura abaixo:
 <figure>
-  <img src="[https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1056/views/1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/upload/main/documentos/img)">
+  <img src="(https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/upload/main/documentos/img)
    <figcaption>Figura 2 - Tela do kanban no GitHub utilizada pelo grupo</figcaption>
 
 </figure> 
