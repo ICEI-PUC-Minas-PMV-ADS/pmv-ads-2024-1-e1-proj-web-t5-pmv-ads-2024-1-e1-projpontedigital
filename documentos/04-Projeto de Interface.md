@@ -54,7 +54,7 @@ A tela de Login apresenta campos para a inserção do e-mail e da senha, e a fun
 A tela de cadastro, o usuário seleciona se o cadastro será feito como paciente ou psicólogo, e então, preenche os dados de acordo com o solicitado.
 
 <figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/tela%20cadastro1.png"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/tela%20de%20cadastro1.png"
    <figcaption>Figura 5 - Tela seleção de usuário. </figcaption>
   
 </figure>
