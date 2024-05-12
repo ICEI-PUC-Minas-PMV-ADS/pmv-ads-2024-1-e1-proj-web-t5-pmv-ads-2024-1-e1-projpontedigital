@@ -26,7 +26,7 @@ RF-001: Campo para que os profissionais da psicologia realizem seus cadastros.
 
 #### Estrutura de Dados
 
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte/cadastro%20cliente)
+●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte/cadastro%20psic%C3%B3logo)
 
 #### Instruções de acesso
 
