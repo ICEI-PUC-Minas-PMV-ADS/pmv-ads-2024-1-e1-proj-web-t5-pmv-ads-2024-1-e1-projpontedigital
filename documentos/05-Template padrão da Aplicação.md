@@ -24,7 +24,7 @@ O código utilizado para a construção dos elementos citados, podem ser consult
 </figure> 
 <hr>
   
-<p>Para a criação do logotipo do site foi utilizada a cor azul.</p>
+<p> O logotipo é representado por duas pessoas conectadas que simbolizam a conexão humana e o relacionamento entre psicólogos e clientes. O uso da cor branca para as pessoas conectadas sugere pureza, clareza e neutralidade, características importantes para um ambiente terapêutico. O fundo azul pode transmitir confiança, calma e serenidade, elementos essenciais para um serviço relacionado à saúde mental.</p>
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/logo..jpg" >
