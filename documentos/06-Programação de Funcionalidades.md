@@ -1,6 +1,6 @@
 # Programação de Funcionalidades
 
-### Tela de Cadastro (RF-001)
+### Tela de Cadastro para Psicólogos (RF-001)
 
 Responsável: Lucas Coelho
 
@@ -15,7 +15,7 @@ Exemplo da tela de cadastro:
 
 #### Requisito atendido
 
-RF-001: O site deve permitir ao usuário cadastrar uma conta.
+RF-001: Campo para que os profissionais da psicologia realizem seus cadastros.
 
 
 #### Artefatos da funcionalidade
@@ -26,13 +26,83 @@ RF-001: O site deve permitir ao usuário cadastrar uma conta.
 
 #### Estrutura de Dados
 
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/codigo-fonte/cadastro%20psic%C3%B3logo/cadastro.html)
+●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte/cadastro%20psic%C3%B3logo)
 
 #### Instruções de acesso
 
 Abra um navegador de Internet e informe a seguinte URL:
 
-Ao clicar em “Cadastre-se” no canto superior direito da tela, terá acesso a página de cadastro.
+Ao clicar em “Cadastre-se” no canto superior direito da tela, você sera guiado para uma pagina onde devera informar o site se você e um psicólogo ou um cliente.
+
+
+
+### Tela de Cadastro para Pacientes (RF-002)
+
+Responsável: Lucas Coelho
+
+O acesso a tela de cadastro dos psicólogos poderá ser feito através da opção de menu “Cadastre-se”. As estruturas de dados foram baseadas em HTML, CSS.
+
+Exemplo da tela de cadastro: 
+
+![Untitled Diagram-Page-1 drawio](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/tela%20de%20%20cadastro%20cliente.png)
+
+#### Requisito atendido
+
+RF-002: Campo para que os pacientes realizem seus cadastros.
+
+
+#### Artefatos da funcionalidade
+
+●cadastre-se.html
+
+●cadastro.css
+
+#### Estrutura de Dados
+
+●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte/cadastro%20cliente)
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL:
+
+Ao clicar em “Cadastre-se” no canto superior direito da tela, você sera guiado para uma pagina onde devera informar o site se você e um psicólogo ou um cliente.
+
+
+
+
+ #### Estabelecer um sistema de agendamento de consultas que permita aos pacientes marcar e cancelar sessões e reuniões. (RF-005)
+
+Responsável: Douglas Barone
+
+O acesso a tela de agendamento dos pacientes poderá ser feito através da opção de menu “agendamento”. As estruturas de dados foram baseadas em HTML, CSS.
+
+Exemplo da tela de agendamento: 
+
+
+![Untitled Diagram-Page-1 drawio](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/tela_de_agendamentos.jpg)
+
+
+
+#### Requisito atendido
+
+RF-005: Estabelecer um sistema de agendamento de consultas que permita aos pacientes marcar e cancelar sessões e reuniões.
+
+
+#### Artefatos da funcionalidade
+
+●cadastre-se.html
+
+●cadastro.css
+
+#### Estrutura de Dados
+
+●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte/agendamento)
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL:
+
+Ao clicar em “Cadastre-se” no canto superior direito da tela, você sera guiado para uma pagina onde devera informar o site se você e um psicólogo ou um cliente.
 
 
 
