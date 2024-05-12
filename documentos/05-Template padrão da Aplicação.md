@@ -26,6 +26,6 @@ O código utilizado para a construção dos elementos citados, podem ser consult
 <p>Para a criação do logotipo do site foi utilizada a cor azul.</p>
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/logo..jpg" width="200" height="200">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/logo..jpg" >
     <figcaption>Figura 3 - Logotipo da aplicação web Ponte Digital
 </figure> 
