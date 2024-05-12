@@ -4,6 +4,7 @@ O layout padrão do site foi construído com as linguagens de marcação HTML e 
 As páginas terão como elementos padrões o menu de navegação,além dos elementos de identidade visual citados abaixo:
 
 Cores: rgb(192, 192, 192), rgb(1, 1, 49), white.
+
 Font-family: Arial.
 
 O código utilizado para a construção dos elementos citados, podem ser consultados <a href="">aqui</a>. As imagens e ícones utilizados no projeto estão disponíveis <a href="">aqui</a>.
