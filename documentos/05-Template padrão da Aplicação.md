@@ -1,10 +1,17 @@
 # Template padrão da Aplicação
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+O layout padrão do site foi construído com as linguagens de marcação HTML e CSS.
+As páginas terão como elementos padrões o menu de navegação,além dos elementos de identidade visual citados abaixo:
 
-[Apresente a estrutura padrão da sua aplicação.]
+Cores: rgb(192, 192, 192), rgb(1, 1, 49), white.
+Font-family: Arial.
+O código utilizado para a construção dos elementos citados, podem ser consultados <a href="">aqui</a>. As imagens e ícones utilizados no projeto estão disponíveis <a href="">aqui</a>.
+<h3><b>Home Page</b></h3>
 
-> **Links Úteis**:
+
+
+
+
 >
 > - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
 > - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
