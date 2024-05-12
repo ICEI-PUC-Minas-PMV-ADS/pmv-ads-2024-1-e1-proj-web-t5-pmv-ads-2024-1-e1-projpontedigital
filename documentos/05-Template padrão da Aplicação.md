@@ -7,7 +7,7 @@ As páginas terão como elementos padrões o menu de navegação,além dos eleme
 <li>Font-family: Arial</li>
 </ul>
 
-O código utilizado para a construção dos elementos citados, podem ser consultados <a href="">aqui</a>. As imagens e ícones utilizados no projeto estão disponíveis <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/documentos/imagens">aqui</a>.
+O código utilizado para a construção dos elementos citados, podem ser consultados <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte">aqui</a>. As imagens e ícones utilizados no projeto estão disponíveis <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/documentos/imagens">aqui</a>.
 
 <h3><b>Home Page</b></h3>
 <p>Exibe a tela pricipal do site.</p>
