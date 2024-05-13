@@ -20,7 +20,7 @@ RF-001: Campo para que os profissionais da psicologia realizem seus cadastros.
 
 #### Artefatos da funcionalidade
 
-●cadastre-se.html
+●cadastro.html
 
 ●cadastro.css
 
@@ -40,7 +40,7 @@ Ao clicar em “Cadastre-se” no canto superior direito da tela, você sera dir
 
 Responsável: Lucas Coelho
 
-O acesso a tela de cadastro dos psicólogos poderá ser feito através da opção de menu “Cadastre-se”. As estruturas de dados foram baseadas em HTML, CSS.
+O acesso a tela de cadastro dos clintes poderá ser feito através da opção de menu “Cadastre-se”. As estruturas de dados foram baseadas em HTML, CSS.
 
 Exemplo da tela de cadastro: 
 
@@ -53,7 +53,7 @@ RF-002: Campo para que os pacientes realizem seus cadastros.
 
 #### Artefatos da funcionalidade
 
-●cadastre-se.html
+●cadastro.html
 
 ●cadastro.css
 
@@ -73,36 +73,35 @@ Ao clicar em “Cadastre-se” no canto superior direito da tela, você sera dir
 
 Responsável: Gabriella Rayanne
 
-O acesso a tela de cadastro dos psicólogos poderá ser feito através da opção de menu “Cadastre-se”. As estruturas de dados foram baseadas em HTML, CSS.
+O acesso a tela busca poderá ser feito através da homepage. As estruturas de dados foram baseadas em HTML, CSS.
 
-Exemplo da tela de cadastro: 
+Exemplo da tela de busca(homepage): 
 
 
-![Untitled Diagram-Page-1 drawio](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/tela%20de%20%20cadastro%20psic%C3%B3logo.png))
+![Untitled Diagram-Page-1 drawio](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/tela_de_homepage.jpg)
 
 
 
 #### Requisito atendido
 
-RF-001: Campo para que os profissionais da psicologia realizem seus cadastros.
+RF-004: Criar campo de pesquisa avançada, para filtragem de busca.
 
 
 #### Artefatos da funcionalidade
 
-●cadastre-se.html
+●homepage.html
 
-●cadastro.css
+●homepage.css
 
 #### Estrutura de Dados
 
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte/cadastro%20cliente)
+●[homepage.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte/home%20page)
 
 #### Instruções de acesso
 
 Abra um navegador de Internet e informe a seguinte URL:
 
-Ao clicar em “Cadastre-se” no canto superior direito da tela, você sera direcionado à uma página onde deverá informar ao site se você é um psicólogo ou um cliente.
-
+A ferramenta de busca estará no cabeçalho da página inicial. Ao clicar nela, os usuários poderão buscar os profissionais desejam.
 
 
 
@@ -126,13 +125,13 @@ RF-005: Estabelecer um sistema de agendamento de consultas que permita aos pacie
 
 #### Artefatos da funcionalidade
 
-●cadastre-se.html
+●agendamento.html
 
-●cadastro.css
+●agendamento.css
 
 #### Estrutura de Dados
 
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte/agendamento)
+●[agendamento.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte/agendamento)
 
 #### Instruções de acesso
 
