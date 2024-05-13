@@ -9,7 +9,7 @@ O acesso a tela de cadastro dos psicólogos poderá ser feito através da opçã
 Exemplo da tela de cadastro: 
 
 
-![Untitled Diagram-Page-1 drawio](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/tela%20de%20%20cadastro%20psic%C3%B3logo.png)
+![Untitled Diagram-Page-1 drawio](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/Captura%20de%20tela%202024-05-12%20214437.png)
 
 #### Requisito atendido
 
