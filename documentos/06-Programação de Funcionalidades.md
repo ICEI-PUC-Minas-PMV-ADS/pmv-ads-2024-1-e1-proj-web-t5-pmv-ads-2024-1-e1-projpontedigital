@@ -36,6 +36,10 @@ Ao clicar em “Cadastre-se” no canto superior direito da tela, você sera dir
 
 
 
+
+
+
+
 ### Tela de Cadastro para Pacientes (RF-002)
 
 Responsável: Lucas Coelho
@@ -66,6 +70,11 @@ RF-002: Campo para que os pacientes realizem seus cadastros.
 Abra um navegador de Internet e informe a seguinte URL:
 
 Ao clicar em “Cadastre-se” no canto superior direito da tela, você sera direcionado à uma página onde deverá informar ao site se você é um psicólogo ou um cliente.
+
+
+
+
+
 
 
 
@@ -102,6 +111,10 @@ RF-004: Criar campo de pesquisa avançada, para filtragem de busca.
 Abra um navegador de Internet e informe a seguinte URL:
 
 A ferramenta de busca estará no cabeçalho da página inicial. Ao clicar nela, os usuários poderão buscar os profissionais desejam.
+
+
+
+
 
 
 
