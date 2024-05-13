@@ -1,1 +1,105 @@
 
+header {
+    width: 100%;
+    background-color: rgb(1, 1, 49);
+    display: flex;
+    justify-content: right;
+    align-items: center;
+  }
+
+  header img {
+    padding-right: 200px;
+  }
+  
+  
+main {
+    height: 800px;
+}
+
+.busca{
+    
+    width: 25%;
+}
+
+  input[type="text"] {
+    width: 75%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    width: 20%;
+    background-color: rgb(1, 1, 49);
+    color: white;
+    padding: 11px 10px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+input[type="submit"]:hover {
+    font-weight: bolder;
+    background-color: rgb(1, 1, 49);
+}
+  
+
+  nav {
+    margin-left: 400px;
+    text-transform: uppercase;
+    
+  }
+
+  body {
+    background-color: rgb(192, 192, 192);
+  }
+
+  .categorias > ul > li {
+    display: block;
+    width: 120px;
+    margin: 12px;
+    padding: 5px;
+    list-style-type: none;
+    text-align: left;
+}
+
+article {
+    display: inline-block;
+    width: calc(33% - 16px);
+    vertical-align: top;
+    margin: 0px 12px;
+    text-align: justify;
+    padding: 15px 15px;
+    box-sizing: border-box;
+    margin-right: 0px;
+}
+
+  a:hover {
+    font-weight: bolder;
+  }
+  
+  a {
+    text-decoration: none;
+    padding: 10px 15px;
+    color:white;
+    margin: 0 5px;
+  }
+
+  .rodape {
+    font-size: 20px;
+    text-align:center;
+    padding: 10px 20px;
+    background-color:rgb(1, 1, 49);
+    color: white;
+  }
+  
+  footer {
+    width: 100%;
+    position: fixed;
+  }
+
+
