@@ -19,15 +19,15 @@ RF-001: Campo para que os profissionais da psicologia realizem seus cadastros.
 
 #### Artefatos da funcionalidade
 
-●cadastro.html
+● cadastro.html
 
-●cadastro.css
+● cadastro.css
 
 <br>
 
 #### Estrutura de Dados
 
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte/cadastro%20psic%C3%B3logo)
+● [cadastro.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte/cadastro%20psic%C3%B3logo)
 
 <br>
 
@@ -59,15 +59,15 @@ RF-002: Campo para que os pacientes realizem seus cadastros.
 
 #### Artefatos da funcionalidade
 
-●cadastro.html
+● cadastro.html
 
-●cadastro.css
+● cadastro.css
 
 <br>
 
 #### Estrutura de Dados
 
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte/cadastro%20cliente)
+●[cadastro.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte/cadastro%20cliente)
 
 <br>
 
@@ -100,15 +100,15 @@ RF-004: Criar campo de pesquisa avançada, para filtragem de busca.
 
 #### Artefatos da funcionalidade
 
-●homepage.html
+● homepage.html
 
-●homepage.css
+● homepage.css
 
 <br>
 
 #### Estrutura de Dados
 
-●[homepage.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte/home%20page)
+● [homepage.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte/home%20page)
 
 <br>
 
@@ -141,15 +141,15 @@ RF-005: Estabelecer um sistema de agendamento de consultas que permita aos pacie
 
 #### Artefatos da funcionalidade
 
-●agendamento.html
+● agendamento.html
 
-●agendamento.css
+● agendamento.css
 
 <br>
 
 #### Estrutura de Dados
 
-●[agendamento.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte/agendamento)
+● [agendamento.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/tree/main/codigo-fonte/agendamento)
 
 <br>
 
