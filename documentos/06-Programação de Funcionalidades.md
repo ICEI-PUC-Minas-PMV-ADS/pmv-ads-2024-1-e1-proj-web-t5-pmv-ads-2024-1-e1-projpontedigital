@@ -85,7 +85,7 @@ Responsável: Gabriella Rayanne
 
 O acesso a tela busca poderá ser feito através da homepage. As estruturas de dados foram baseadas em HTML, CSS.
 
-Exemplo da tela de busca(homepage): 
+Exemplo da tela de busca (homepage): 
 
 
 ![Untitled Diagram-Page-1 drawio](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/tela_de_homepage.jpg)
