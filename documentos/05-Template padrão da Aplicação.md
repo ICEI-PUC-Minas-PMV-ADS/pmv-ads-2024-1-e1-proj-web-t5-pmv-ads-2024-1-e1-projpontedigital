@@ -12,7 +12,7 @@ O código utilizado para a construção dos elementos citados, podem ser consult
 <h3><b>Home Page</b></h3>
 <p>Exibe a tela pricipal do site.</p>
 <figure> 
-  <img src="">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/tela_de_homepage.jpg">
   <figcaption> Figura 1 - Home Page
 </figure> 
     
