@@ -9,7 +9,7 @@ Os Requisitos para a realização dos testes de software são:
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
-|CT-01: Verificar o funcionamento dos links da página Home|:---|
+|:---CT-01: Verificar o funcionamento dos links da página Home|:---|
 | Requisitos Associados | RF-X |
 | Objetivo do Teste | Descrição do objetivo do teste |
 | Passos | Indicar passos para a execução do teste |
