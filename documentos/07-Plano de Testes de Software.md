@@ -24,7 +24,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
     <li>RF-06	O site deverá possuir um campo onde os pacientes possam avaliar os profissionais da psicologia.</li>
    </ul>
   </td>
-  <td>Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente</td>
+  <td>Verificar se os links da página Home estão encaminhando para as páginas existentes corretamente</td>
   <td>
    <ol>
     <li>Acessar o navegador.</li>
@@ -34,7 +34,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
    </ol>
    </td>
   <td>Todos os links da página Home devem encaminhar os usuários para as páginas descritas.</td>
-  <td>Maria</td>
+  <td>Douglas</td>
  </tr>
 </table>
 
@@ -48,10 +48,10 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-02: Verificar o funcionamento do filtro de pesquisa</td>
+  <td>CT-02: Verificar o funcionamento do filtro de busca</td>
   <td>
    <ul>
-    <li>RF-003:	O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar livros e disciplinas das tutorias      disponíveis.</li>
+    <li>RF-04:	O site deve oferecer uma funcionalidade de filtragem/busca para permitir ao usuário localizar o profissional de psicologia por especialidade e região.</li>
    </ul>
   </td>
   <td>Verificar se o filtro de pesquisa está recuperando os dados inseridos pelo usuário</td>
@@ -60,12 +60,12 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
     <li>Acessar o navegador.</li>
     <li>Informar o endereço do site.</li>
     <li>Visualizar a página Home.</li>
-    <li>Clicar na página Livros.</li>
-    <li>Digitar no filtro de pesquisa algum dado presente na página Livros e verificar se o resultado é exibido na página.</li>
+    <li>Clicar na página Profissionais.</li>
+    <li>Filtrar ou buscar com o nome da especialidade ou região referente e verificar se a informação é exibida na página.</li>
    </ol>
    </td>
-  <td>Os dados inseridos no filtro de pesquisa devem mostrar o livro onde há o dado informado.</td>
-  <td>Maria</td>
+  <td>Os dados inseridos no filtro/busca devem mostrar o nome do psicólogo(a) ou região onde há o dado informado.</td>
+  <td>Gabriella</td>
  </tr>
 </table>
 
@@ -79,25 +79,25 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <th>Responsável</th>  
  </tr>
  <tr>
-  <td>CT-03: Verificar detalhes dos livros</td>
+  <td>CT-03: Cadastro de usuários: profissionais e pacientes</td>
   <td>
    <ul>
-    <li>RF-006:	O site deve apresentar, para cada livro, uma imagem correspondente à capa.</li>
-    <li>RF-007:	O site deve permitir ao usuário visualizar os detalhes do livro.</li>
+    <li>RF-01	Campo para que os profissionais da psicologia realizem seus cadastros.</li>
+    <li>RF-02	Campo para que os pacientes realizem seus cadastros.</li>
    </ul>
   </td>
-  <td>Verificar se todas as informações referentes aos livros estão disponíveis na página Livros</td>
+  <td>Verificar se todas as informações necessárias estão disponíveis nos campos de cadastro</td>
   <td>
    <ol>
     <li>Acessar o navegador.</li>
     <li>Informar o endereço do site.</li>
     <li>Visualizar a página Home.</li>
-    <li>Clicar na página Livros.</li>
-    <li>Visualizar as informações referentes aos livros disponíveis na página.</li>
+    <li>Clicar na aba de login.</li>
+    <li>Visualizar o campo de cadastro e preencher os dados solicitados.</li>
    </ol>
    </td>
-  <td>Todas as informações, incluindo imagens das capas, referentes aos livros estão disponíveis na página Livros.</td>
-  <td>João</td>
+  <td>Preenchimento de todas as informações solicitadas corretamente.</td>
+  <td>Lucas</td>
  </tr>
 </table>
 
