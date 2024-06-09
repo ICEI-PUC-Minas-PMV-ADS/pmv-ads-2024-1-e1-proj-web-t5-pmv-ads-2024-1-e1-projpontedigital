@@ -10,7 +10,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
   Responsável: Lucas Coelho
 
-(https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/CPsicologo.png)
+<img src= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t5-pmv-ads-2024-1-e1-projpontedigital/blob/main/documentos/imagens/CPsicologo.png">
 
   </li>
 
