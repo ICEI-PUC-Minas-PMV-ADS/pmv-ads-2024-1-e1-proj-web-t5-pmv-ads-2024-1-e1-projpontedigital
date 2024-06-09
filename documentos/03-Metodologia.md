@@ -9,7 +9,7 @@ Optamos por adotar a metodologia ágil SCRUM para conduzir o desenvolvimento des
 
 - Scrum Master: Douglas Barone dos Santos
 - Product Owner: Lucas Coelho da Silva
-- Equipe de Desenvolvimento: Douglas Barone dos Santos, Felipe Alexandre da Silva, Gabriella Rayanne Diogo de Barros, Lucas Coelho da Silva
+- Equipe de Desenvolvimento: Douglas Barone dos Santos, Gabriella Rayanne Diogo de Barros, Lucas Coelho da Silva
 - Equipe de Design: Gabriella Rayanne Diogo de Barros
 
 ### Processo
