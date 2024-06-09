@@ -12,6 +12,8 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |:---|:---|
 |CT-01: Verificar o funcionamento dos links da página Home|
 | Requisitos Associados | RF-X |
+RF-06	Campo onde os pacientes possam avaliar os profissionais da psicologia.
+
 | Objetivo do Teste | Descrição do objetivo do teste |
 | Passos | Indicar passos para a execução do teste |
 | Critérios de êxito | Indicar os critérios de êxito  |
