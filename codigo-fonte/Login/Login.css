@@ -1,1 +1,155 @@
+@media (max-width: 999px) {
+    .login{
+        width:90%;
+      }
+     }
+    
+  header {
+    width: 100%;
+    background-color: rgb(1, 1, 49);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  @media (max-width: 999px) {
+    nav {
+        width:90%;
+      }
+     }  
+  
+  nav {
+    margin-left: 400px;
+    text-transform: uppercase;
+    
+  }
+  
+  a:hover {
+    font-weight: bolder;
+  }
+  
+  a {
+    text-decoration: none;
+    padding: 10px 15px;
+    color:white;
+    margin: 0 5px;
+  }
+  
+  @media (max-width: 999px) {
+    img {
+        width:90%;
+      }
+     }  
+  
+  body {
+  background-color: rgb(192, 192, 192);
+  }
 
+  @media (max-width: 999px) {
+    .content {
+      width: 90%;
+    }
+  }
+  
+  @media (min-width: 1000px) {
+    .content {
+      width: 500px;
+    }
+    
+  }
+  
+  *,
+  *:before,
+  *:after {
+    margin: 0;
+    padding: 0;
+
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .content {
+    margin: 40px auto;
+    position: relative;
+    
+    
+  }
+  
+  h1 {
+    font-size: 30px;
+    color:rgb(1, 1, 49);
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    line-height: 2.5;
+    
+  }
+  
+  .caixa {
+    margin: 10px 5px;
+    
+  }
+  label {
+    color:rgb(1, 1, 49);
+    position: relative;
+    display: inline-block;
+  }
+  
+  
+  
+  input {
+    outline: none;
+  }
+  
+  input:not([type='checkbox']) {
+    
+    box-sizing: border-box;
+    width: 100%;
+    height: 40px;
+    margin-top: 5px;
+    padding: 10px;
+    border: 1px solid rgb(1, 1, 49);
+    color: rgb(1, 1, 49);
+    border-radius: 10px;
+   
+  }
+  
+  .button {
+    align-items: center;
+    font-size: 18px;
+    color:white;
+    background-color: rgb(1, 1, 49);
+    border-radius: 10px;
+    padding: 5px 20px;
+    display: block;
+    margin: 20px auto;
+  }
+  
+  .login {
+    position: absolute;
+    width: 100%;
+    padding: 10px 50px;
+    margin: 80px auto;
+    border: 2px solid rgb(1, 1, 49) ;
+    border-radius: 10px;
+    font-size: 16px;
+    box-sizing: border-box;
+    line-height: 2;
+    
+  }
+  
+  .rodape {
+    font-size: 20px;
+    text-align:center;
+    padding: 10px 20px;
+    background-color:rgb(1, 1, 49);
+    color: white;
+    border-radius: 4px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
