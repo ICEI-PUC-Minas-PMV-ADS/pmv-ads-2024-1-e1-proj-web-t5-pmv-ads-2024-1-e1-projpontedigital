@@ -6,10 +6,10 @@ Os Requisitos para a realização dos testes de software são:
 - Site publicado na internet;
 - Navegador da internet: Chrome, Firefox ou Edge.
 
-Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
+Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
-|:---|:---| CT-01: Verificar o funcionamento dos links da página Home
+|CT-01: Verificar o funcionamento dos links da página Home|:---|
 | Requisitos Associados | RF-X |
 | Objetivo do Teste | Descrição do objetivo do teste |
 | Passos | Indicar passos para a execução do teste |
