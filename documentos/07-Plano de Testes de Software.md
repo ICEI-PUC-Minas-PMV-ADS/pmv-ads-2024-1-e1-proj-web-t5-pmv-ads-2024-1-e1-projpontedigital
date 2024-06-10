@@ -130,7 +130,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
    </ol>
    </td>
   <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "agendar", deve aparecer a mensagem "Consulta marcada com sucesso".</td>
-  <td>Lucas</td>
+  <td>Douglas</td>
  </tr>
 </table>
 
@@ -229,7 +229,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
    </ol>
    </td>
   <td>O login deve ser realizado dando acesso a página de dados do usuário</td>
-  <td>Douglas</td>
+  <td>Lucas</td>
  </tr>
 </table>
  
