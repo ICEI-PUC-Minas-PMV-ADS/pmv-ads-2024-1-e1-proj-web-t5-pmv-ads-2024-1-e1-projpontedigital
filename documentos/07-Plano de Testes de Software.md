@@ -162,7 +162,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
    </ol>
    </td>
   <td>Após a filtragem/busca deverá ser selecionado o perfil de um profissional.</td>
-  <td>Douglas</td>
+  <td>Gabriella</td>
  </tr>
 
  <table>
