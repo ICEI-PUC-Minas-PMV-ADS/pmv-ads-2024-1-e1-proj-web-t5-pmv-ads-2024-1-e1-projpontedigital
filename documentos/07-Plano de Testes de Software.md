@@ -200,5 +200,36 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <td>Lucas</td>
  </tr>
 </table>
-
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-07: Verificar o funcionamento do login</td>
+  <td>
+   <ul>
+    <li>RF-01	Campo para que os profissionais da psicologia realizem seus cadastros..</li>
+    <li>RF-02	Campo para que os pacientes realizem seus cadastros.	ALTA</li>
+   </ul>
+  </td>
+  <td>Verificar se o link da página acessa o login corretamente</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar no link de ''login''.</li>
+    <li>Preencher os dados de e-mail e senha</li>
+    <li>Clicar em ''Entrar'' e se quiser em ''manter-me logado''</li>
+   </ol>
+   </td>
+  <td>O login deve ser realizado dando acesso a página de dados do usuário</td>
+  <td>Douglas</td>
+ </tr>
+</table>
  
