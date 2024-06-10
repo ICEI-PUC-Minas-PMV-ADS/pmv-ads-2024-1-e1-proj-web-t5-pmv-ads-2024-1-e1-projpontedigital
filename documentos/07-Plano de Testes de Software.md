@@ -175,7 +175,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <th>Responsável</th>
  </tr>
   <tr>
-  <td>CT-06: Agendar diretamente do perfil do profissionals</td>
+  <td>CT-06: Agendar diretamente do perfil do profissionais</td>
   <td>
    <ul>
    <li>RF-04	O site deve permitir ao usuário realizar agendamento direto do perfil do profissional.</li>
