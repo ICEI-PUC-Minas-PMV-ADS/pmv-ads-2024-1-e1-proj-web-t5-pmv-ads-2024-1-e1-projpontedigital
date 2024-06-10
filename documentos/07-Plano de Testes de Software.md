@@ -99,6 +99,19 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
    </td>
   <td>Preenchimento do formulário com todas as informações solicitadas corretamente.</td>
   <td>Lucas</td>
+  </tr>
+</table>
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
   <td>CT-04: Verificar o agendamento de consultas</td>
   <td>
    <ul>
