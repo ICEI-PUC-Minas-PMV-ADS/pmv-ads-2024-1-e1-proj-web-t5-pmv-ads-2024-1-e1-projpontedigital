@@ -99,9 +99,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
    </td>
   <td>Preenchimento do formulário com todas as informações solicitadas corretamente.</td>
   <td>Lucas</td>
- </tr>
-</table>
- <tr>
   <td>CT-04: Verificar o agendamento de consultas</td>
   <td>
    <ul>
@@ -187,7 +184,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
    </ol>
    </td>
   <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "agendar", deve aparecer a mensagem "Consulta marcada com sucesso".</td>
-  <td>João</td>
+  <td>Lucas</td>
  </tr>
 </table>
 
